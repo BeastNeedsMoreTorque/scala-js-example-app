@@ -1,12 +1,12 @@
 # Barebone application written in Scala.js
 
 This is a barebone example of an application written in
-[Scala.js](https://www.scala-js.org/).
+[Scala.js](http://www.scala-js.org/).
 
 ## Get started
 
 To get started, open `sbt` in this example project, and execute the task
-`fastOptJS`. This creates the file `target/scala-2.11/example-fastopt.js`.
+`fastOptJS`. This creates the file `target/scala-2.12/example-fastopt.js`.
 You can now open `index-fastopt.html` in your favorite Web browser!
 
 During development, it is useful to use `~fastOptJS` in sbt, so that each
